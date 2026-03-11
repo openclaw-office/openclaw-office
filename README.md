@@ -1,4 +1,4 @@
-# 🌌 OpenClaw Office
+# 🦞 OpenClaw Office 🦞
 
 **OpenClaw Office** is a desktop application that combines the powerful AI agent management dashboard functionality from [openclaw-manager](https://github.com/miaoxworld/openclaw-manager) with an interactive, real-time 3D visualization of their work.
 
