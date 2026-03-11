@@ -4,6 +4,12 @@
 
 Forget about boring terminal logs. Now your agents "live" in a virtual space, physically move between tasks, communicate, and consume resources under your complete visual control.
 
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="OpenClaw Office is a desktop application that combines the powerful AI agent management dashboard functionality from openclaw-manager with an interactive, real-time 3D visualization of their work." src="assets/openclawoffice.png" />
+  </a>
+</div>
+
 ---
 
 ## ✨ Key Features
@@ -15,6 +21,12 @@ AI work is visualized in an interactive isometric environment rendered in real-t
 * 🏰 **Medieval:** Agents as knights and mages reading scrolls by the campfire or forging code in a smithy.
 * 🏙 **Modern Metropolis:** Sleek offices with panoramic windows or high-tech coworking spaces.
 * 🦾 **Cyberpunk:** Neon slums, holograms, hacker terminals, and server racks of the future.
+
+<div align="center">
+  <a href="../../releases/latest">
+    <img width="1200" alt="OpenClaw Office is a desktop application that combines the powerful AI agent management dashboard functionality from openclaw-manager with an interactive, real-time 3D visualization of their work." src="assets/clawpunk.png" />
+  </a>
+</div>
 
 ### 📊 2. Advanced Dashboard and Two-Way Control
 
